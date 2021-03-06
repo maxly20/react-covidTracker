@@ -4,6 +4,8 @@ A Covid Tracker built with React, axios, using Material UI, Leaflet, data retrie
 
 Deployed live at https://covid-tracker-40e18.web.app/
 
+Mirror: https://maxly-react-covid-tracker.netlify.app
+
 ![](SitePreview.jpg)
 
 
