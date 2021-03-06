@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Covid Tracker
+
+A Covid Tracker built with React, axios, using Material UI, Leaflet, data retrieved from disease.sh API, deployed with Firebase.
+
+Deployed live at https://covid-tracker-40e18.web.app/
+
+![](SitePreview.jpg)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
