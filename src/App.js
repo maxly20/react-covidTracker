@@ -8,7 +8,7 @@ import {
 } from '@material-ui/core';
 import InfoBox from './components/InfoBox';
 import Map from './components/Map';
-import Table from './Table';
+import Table from './components/Table';
 import { sortData, prettyPrintStat } from './util';
 import LineGraph from './components/LineGraph';
 import 'leaflet/dist/leaflet.css';
